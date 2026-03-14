@@ -1,2 +1,21 @@
-heroku keys:add
-heroku keys:add.pub
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Distribution
+*.egg-info/
+dist/
+build/
